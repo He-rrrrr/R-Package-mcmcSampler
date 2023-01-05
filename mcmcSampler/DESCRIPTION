@@ -1,0 +1,13 @@
+Package: mcmcSampler
+Type: Package
+Title: MH, Gibbs, Adaptive Metropolis 
+Version: 1.0
+Date: 2023-01-05
+Author: Wen Qi, Ruirui He, Xueqian Sun
+Maintainer: Ruirui He <202213812@ruc.edu.cn>
+Description: Implementation of Random Walk Metropolis-Hastings MCMC,  An adaptive Metropolis Algorithm and a Gibbs sampler
+License: GNU GPLv3
+Imports: Rcpp (>= 1.0.7)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.2.3
+
